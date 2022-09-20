@@ -1,1 +1,1 @@
-# React-Paragraph-Generator
+# Simple Paragraph generating project
